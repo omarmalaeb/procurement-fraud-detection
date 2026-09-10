@@ -1,3 +1,6 @@
 archive/
 archive.zip
 .venv/
+
+__pycache__/
+*.pyc
